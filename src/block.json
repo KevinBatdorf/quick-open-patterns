@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "kevinbatdorf/quick-open-patterns",
+	"version": "0.1.0",
+	"title": "Quick Open Patterns",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Opens the patterns modal when you type /patterns",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "quick-open-patterns",
+	"editorScript": "file:./index.js"
+}
